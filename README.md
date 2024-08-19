@@ -1,3 +1,4 @@
+# 書き込めるか確認
 # Generated files
 This repository contains generated files and a checksum.
 
